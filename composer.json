@@ -1,5 +1,6 @@
 {
     "name": "socialengine/zf1",
+    "version": "1.12.22",
     "description": "Zend Framework 1",
     "type": "library",
     "keywords": [
